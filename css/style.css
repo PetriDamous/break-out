@@ -1,0 +1,11 @@
+*{
+  padding: 0; 
+  margin: 5;
+}
+
+ #myCanvas {
+   background: #eee; 
+   display: block; 
+   margin: 0 auto;
+   border: 2px solid black;
+}
